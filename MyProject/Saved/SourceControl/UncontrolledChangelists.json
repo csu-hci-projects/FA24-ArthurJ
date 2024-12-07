@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyBlueprints/BP_Grabable.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/NewMap.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/Levels/NewMap.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyBlueprints/VR_Target.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyMaterials/HitMat.uasset",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/Levels/Level1.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/Levels/WinLevel.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/Levels/LevelWin.umap",
+				"C:/Users/Jason/Documents/Unreal Projects/CS_310H_Project/MyProject/Content/MyBlueprints/WinSign.uasset"
+			]
+		}
+	]
+}
